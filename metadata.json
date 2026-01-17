@@ -1,0 +1,7 @@
+{
+  "name": "EduStream Pro - Intelligent Learning Platform",
+  "description": "A comprehensive course management system featuring multi-modal content (video, audio, text) and an integrated AI Learning Coach powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
